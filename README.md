@@ -1,9 +1,8 @@
 # test_previewlimitsize
 What is the limit size of text not to be previewed on GitHub.com repo?
 
-## Result
-- [1MB](1MB.py) :x:
-- [1MB-1B](1MB-1B.py) :o:
+## Conclusion
+Just more over 1MB.
 
 ## Steps
 - 1. `1024*1024-(24+1) = 1048551`
